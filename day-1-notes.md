@@ -9,3 +9,8 @@
 
 - created directories, .md files, main.py
 - ran docker container
+
+Today I learned about git diff.
+Mini challange with git.
+
+- Successfully connected my local Git repository to GitHub using a personal access token and performed push.
